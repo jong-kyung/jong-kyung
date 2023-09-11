@@ -13,7 +13,7 @@
 
 <h2>🔧 Skills </h2>
  
-<h3>Platform & Language</h3>
+<h3>Language & Framework</h3>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
