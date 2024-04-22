@@ -13,7 +13,7 @@
 
 <h2>🔧 Skills </h2>
  
-<h3>Framework & Language</h3>
+<h3>Tech Stack</h3>
 <p>
   
   <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
