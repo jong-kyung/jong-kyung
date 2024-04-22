@@ -8,10 +8,9 @@
 </p>
 
 
-<h3>✉️ Contact</h3>
+<h3>Contact</h3>
 <a href="mailto:gyoung3063413@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=gyoung3063413@naver.com"/></a> 
 
-<h2>🔧 Skills </h2>
  
 <h3>Tech Stack</h3>
 <p>
