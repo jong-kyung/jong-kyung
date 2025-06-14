@@ -1,10 +1,10 @@
 <h3>Nice to meet you 👋</h3>
 <p>
   안녕하세요❗️ 프론트엔드 개발자 이종경입니다 😊 <br/>
-  최근 함수형 프로그래밍에 관심이 있으며 함수를 역할에 따라 분리하여 어떻게 적용할지 고민합니다. 🤔 <br/>
+  최근에는 함수형 프로그래밍 패러다임과 WebAssembly(WASM)에 관심을 가지고 있습니다 🤔 <br/>
+  새로운 도전을 즐기며, 기술적으로 어려운 문제에 부딪힐 때마다 동료들과 함께 고민하고 해결책을 찾는 과정에서 큰 보람과 성취감을 느낍니다 🚀 <br/>
   평소 배움을 소중히 여기며, 최신 기술 트렌드와 프로그래밍 패러다임에 대한 지식을 지속적으로 확장하고자 노력합니다 🚀 <br/>
-  저는 성장과 학습의 여정이 끝이 없다고 믿으며, 제가 발전해온 지식과 경험을 공유하는 것을 목표로 합니다 🔥<br/>
-  특히, TypeScript와 React를 중심으로 한 프론트엔드 개발에 관심이 많으며, 블로그를 운영하면서 학습한 내용을 정리하고 공유하고 있습니다 ✍️
+  가 쌓아온 경험과 노하우가 다른 분들께 작은 도움이 되길 바라며, 블로그를 통해 제가 학습한 내용과 경험을 꾸준히 정리하여 공유하고 있습니다 ✍️<br/>
 </p>
 
 
@@ -34,14 +34,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-<h3>Database</h3>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-</p>
-
 <h3>Etc</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
