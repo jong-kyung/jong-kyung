@@ -1,10 +1,10 @@
 <h3>Nice to meet you 👋</h3>
 <p>
-  안녕하세요❗️ 프론트엔드 개발자 이종경입니다 😊 <br/>
-  최근에는 AI를 활용한 생산성 향상과 WebAssembly에 관심을 가지고 있습니다 🤔 <br/>
-  새로운 도전을 즐기며, 기술적으로 어려운 문제에 부딪힐 때마다 동료들과 함께 고민하고 해결책을 찾는 과정에서 큰 보람과 성취감을 느낍니다 🚀 <br/>
-  평소 배움을 소중히 여기며, 최신 기술 트렌드와 프로그래밍 패러다임에 대한 지식을 지속적으로 확장하고자 노력합니다 🚀 <br/>
-  가 쌓아온 경험과 노하우가 다른 분들께 작은 도움이 되길 바라며, 블로그를 통해 제가 학습한 내용과 경험을 꾸준히 정리하여 공유하고 있습니다 ✍️<br/>
+  Hello❗️ I’m Jongkyung Lee, a frontend developer 😊 <br/>
+  Lately, I’ve been focused on boosting productivity with AI and diving into WebAssembly 🤔 <br/>
+  I love new challenges, and I feel the most fulfilled when I team up with colleagues to tackle tough technical problems and craft practical solutions 🚀 <br/>
+  I value continuous learning and make a point of staying current with the latest tech trends and programming paradigms 🚀 <br/>
+  Hoping my experience can help others, I regularly share what I study and build on my blog ✍️
 </p>
 
 
