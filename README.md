@@ -1,7 +1,7 @@
 <h3>Nice to meet you 👋</h3>
 <p>
   Hello❗️ I’m Jongkyung Lee, a frontend developer 😊 <br/>
-  Lately, I’ve been focused on boosting productivity with AI and diving into WebAssembly 🤔 <br/>
+  Lately, I’ve been focused on boosting productivity with AI and diving into Bundle Optimization 🤔 <br/>
   I love new challenges, and I feel the most fulfilled when I team up with colleagues to tackle tough technical problems and craft practical solutions 🚀 <br/>
   I value continuous learning and make a point of staying current with the latest tech trends and programming paradigms 🚀 <br/>
   Hoping my experience can help others, I regularly share what I study and build on my blog ✍️
