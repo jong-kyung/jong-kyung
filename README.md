@@ -6,5 +6,4 @@ Currently, I am focused on **bundle optimization** and contributing to the **ope
 
 I strive to be not just a skilled developer, but a **collaborative teammate**. I feel most fulfilled when working together to craft practical solutions.   
 
-I also **record my experiences** on my blog to create a virtuous cycle of knowledge sharing.  
 Outside of development, I enjoy movies and games.
