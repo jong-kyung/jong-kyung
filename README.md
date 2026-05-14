@@ -1,6 +1,6 @@
 ### Nice to meet you 👋
 
-Hello! I’m JongKyung Lee, a Frontend Developer.  
+Hello! I’m JongKyung Lee, a Software Engineer.  
 I am passionate about prioritizing **user experience** and diving into **technical challenges**.  
 Currently, I am focused on improving **DX** and contributing to the **open-source ecosystem**, specifically regarding frontend tools.  
 
