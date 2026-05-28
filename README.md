@@ -1,9 +1,7 @@
-### Nice to meet you 👋
+### Hi there! 👋
 
-Hello! I’m JongKyung Lee, a Software Engineer.  
-I am passionate about prioritizing **user experience** and diving into **technical challenges**.  
-Currently, I am focused on improving **DX** and contributing to the **open-source ecosystem**, specifically regarding frontend tools.  
-
-I strive to be not just a skilled developer, but a **collaborative teammate**. I feel most fulfilled when working together to craft practical solutions.   
-
+I’m JongKyung Lee, a Software Engineer focused on frontend tooling, DX, and open source.  
+I enjoy building practical solutions, improving developer experience, and collaborating with others.  
 Outside of development, I enjoy movies and games.
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/jong-kyung) or [X](https://x.com/jongkyung_dev)
